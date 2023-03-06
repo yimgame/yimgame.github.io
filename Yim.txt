@@ -6,10 +6,10 @@ Hey There! I am Yim (Javier Cherin).<!-- Quien soy -->
 <p>I am just a enthusiast of technology and the Internet.</p>
 <p>I studied Electronics and Basic in 1990 on the Commodore 64c platform, currently I dedicate time to the C language, HTML, CSS.</p> <!-- que estudie -->
 <p>I develop myself in all the technical aspects that I can, Hardaware and Systems OS Client and Server administration, also web code configuration and deploy, something of that can be seen here and at <a href="https://cherin.com.ar/"> Javier Cherin</a>.</p><!-- Cherin .com.ar -->
-<p>Since 1997 I have been working for a multinational food company, going through several sectors, since 2006 I have been working as a Logistics assistant and outside of my work environment, I am dedicated to solving computer problems for final consumers and small companies. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p>Since 1997 I have been working for a multinational food company, going through several sectors, since 2006 I have been working as a Logistics assistant and outside of my work environment, I am dedicated to solving computer problems for final consumers and small companies. <br><br>
 <p>Some works, here: <br> <a href="https://www.cherin.com.ar">Perfil</a> <br> <a href="https://www.thrallguards.com.ar">Gaming World of Warcraft Guild Projet</a> and <br> <a href="https://yimgame.github.io/">This Profile at GitHub</a>.</p>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an <!-- longlonglongcomment --><a href="mailto:javier@cherin.com.ar">Email</a>.
+You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an <!-- longlonglongcomment --><a href="mailto:javier@cherin.com.ar"> Email</a>.
 
 <p>If u like this Html Css JavaScript Template u can visit <a href="https://github.com/CodeNerve/CodeNerve.github.io">CodeNerve.github.io</a></p>
 
