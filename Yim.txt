@@ -3,7 +3,7 @@
 My favorite code quote, "<span id="k">Code for Everyone, Code 4 Fun !!!</span>". <!-- sjkfhskjf -->
 
 Hey There! I am Yim (Javier Cherin).<!-- Quien soy -->
-<p>I am just a enthusiast of technology and the Internet.</p>
+<p>I am just an enthusiast of technology and the Internet.</p>
 <p>I studied Electronics and Basic in 1990 on the Commodore 64c platform, currently I dedicate time to the C language, HTML, CSS.</p> <!-- que estudie -->
 <p>I develop myself in all the technical aspects that I can, Hardaware and Systems OS Client and Server administration, also web code configuration and deploy, something of that can be seen here and at <a href="https://cherin.com.ar/"> Javier Cherin</a>.</p><!-- Cherin .com.ar -->
 <p>Since 1997 I have been working for a multinational food company, going through several sectors, since 2006 I have been working as a Logistics assistant and outside of my work environment, I am dedicated to solving computer problems for final consumers and small companies. <br><br>
