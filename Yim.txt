@@ -2,7 +2,7 @@
 <span id="a">yim@game</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Yim.txt<br/><br/>
 My favorite code quote, "<span id="k">Code for Everyone, Code 4 Fun !!!</span>". <!-- sjkfhskjf -->
 
-<h1>Hey There! I am Yim (Javier Cherin).</h1><!-- Quien soy -->
+<p>Hey There! I am Yim (Javier Cherin).</p><!-- Quien soy -->
 <br> 
 <p>I am just an enthusiast of technology and the Internet.</p>
 <p>I studied Electronics and Basic in 1990 on the Commodore 64c platform, currently I dedicate time to the C language, HTML, CSS.</p> <!-- que estudie -->
